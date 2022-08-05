@@ -1,0 +1,22 @@
+{
+  "name": "lrm-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "dotnet LRM.dll",
+    "build": "sudo apt-get update && sudo apt-get install -y dotnet-sdk-6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arex360/LRM-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arex360/LRM-Node/issues"
+  },
+  "homepage": "https://github.com/Arex360/LRM-Node#readme"
+}
